@@ -34,6 +34,18 @@ span{   color: #d5be8b;}
 	 padding: 15px;
 	 font-size:150%;
  }
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 0px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #616161;
+}
  .logo-image{
 	 padding: 10px;
     float: left;
